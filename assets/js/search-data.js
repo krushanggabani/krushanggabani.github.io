@@ -407,8 +407,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-object-reorientation",
-          title: 'Object Reorientation',
+          section: "News",},{id: "projects-autonomous-collision-avoidance-for-quadcopters-via-neuroevolution",
+          title: 'Autonomous Collision Avoidance for Quadcopters via Neuroevolution',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
