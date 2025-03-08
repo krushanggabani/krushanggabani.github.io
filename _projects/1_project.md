@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Object Reorientation
+title: Autonomous Collision Avoidance for Quadcopters via Neuroevolution
 description: with background image
 img: assets/img/12.jpg
 importance: 1
