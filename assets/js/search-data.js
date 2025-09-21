@@ -45,16 +45,14 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-contact-aware-robotic-manipulation-with-compliant-grippers-published-in-nature-communications",
+          title: 'Our paper on Contact-Aware Robotic Manipulation with Compliant Grippers published in Nature Communications....',
+          description: "",
+          section: "News",},{id: "news-presented-my-latest-research-on-soft-body-physics-simulation-for-tissue-robot-interaction-at-asme-idetc-2025-in-anaheim-ca",
+          title: 'Presented my latest research on soft-body physics simulation for tissue robot interaction at...',
           description: "",
           section: "News",},{id: "projects-autonomous-collision-avoidance-for-quadcopters-via-neuroevolution",
           title: 'Autonomous Collision Avoidance for Quadcopters via Neuroevolution',
@@ -106,35 +104,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("mailto:%6B%72%75%73%68%67%61%62%61%6E%69%39%35@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=3z0FaxYAAAAJ&hl=en", "_blank");
         },
       },{
       id: 'light-theme',
