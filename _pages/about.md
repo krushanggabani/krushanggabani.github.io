@@ -7,7 +7,7 @@ subtitle: Robotics • Physics Simulation • Dexterous Manipulation
 profile:
   align: right
   image: prof_pic_color.jpg
-  image_circular: true
+  image_circular: false
   address: >
     <p>University at Buffalo, NY</p>
   social: true
@@ -15,15 +15,9 @@ profile:
 selected_papers: true
 social: true
 
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 5
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
 
-latest_posts:
-  enabled: false
-  scrollable: true
-  limit: 3
 ---
 
 I am a **Ph.D. candidate in Mechanical Engineering at the University at Buffalo**, where I focus on robotics, physics simulation, and soft-body interaction.  
