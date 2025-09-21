@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper on Contact-Aware Robotic Manipulation with Compliant Grippers published in Nature Communications.
