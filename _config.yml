@@ -6,16 +6,17 @@ title: Krushang Gabani # the website title (if blank, full name will be used ins
 first_name: Krushang 
 middle_name: 
 last_name: Gabani
-email: krushang@buffalo.edu
+email: krushgabani95@gmail.com
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Best way to reach me is email. For quicker replies, include a short topic in the subject (e.g., “MPM collab”, “Humanoid control”, “Recruiting”).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate @ University at Buffalo,NY
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  Ph.D. candidate in Robotics & Physics Simulation at the University at Buffalo. I build contact-aware manipulation systems—bridging custom MPM engines, tactile sensing, and whole-body control to push sim-to-real.
+
+# footer_text: >
+#   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+#   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+#   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+# keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -95,11 +96,11 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
-  max_related: 5
+  enabled: false
+  max_related: 0
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
